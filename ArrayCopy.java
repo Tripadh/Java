@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class ArrayCopy {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int a1[] = new int[10];
         int a2[] = new int[a1.length];
 

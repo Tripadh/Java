@@ -1,5 +1,5 @@
 public class nestedif {
-    public static void main(String args[]){
+    public static void main(String1 args[]){
         char ch='A';
 
         if(ch=='A' || ch=='a' || ch=='E' || ch=='e' || ch=='I' || ch=='i' || ch=='O' || ch=='o' || ch=='U' || ch=='u'){

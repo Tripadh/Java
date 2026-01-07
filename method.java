@@ -5,7 +5,7 @@
         return z;
     }
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         method ob = new method(     );
         int result = ob.add(5, 10);
         System.out.println(result);

@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 public class DyamicArray {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         ArrayList<Integer> a = new ArrayList<Integer>();
         Scanner s = new Scanner(System.in);
 

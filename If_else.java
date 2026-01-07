@@ -1,5 +1,5 @@
 class if_else {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         char ch='A';
 
         if (ch=='A'|| ch=='E' || ch=='I' || ch=='O' || ch=='U' || ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u') {

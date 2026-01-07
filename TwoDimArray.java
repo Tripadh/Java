@@ -1,6 +1,6 @@
 public class TwoDimArray {
     
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         // Declare and initialize a 2D array
         int[][] matrix = {
             {1, 2, 3},

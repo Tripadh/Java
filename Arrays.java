@@ -1,5 +1,5 @@
 public class Arrays {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         // Declare and initialize an array
         int[] numbers = {10, 20, 30, 40, 50};
 

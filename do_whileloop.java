@@ -1,5 +1,5 @@
 public class do_whileloop {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int i = 1;
         do {
             if (i % 2 == 0) {

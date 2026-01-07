@@ -1,5 +1,5 @@
 public class if_elseif {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         char ch = 'A';
 
         if (ch == 'A' || ch == 'a') {

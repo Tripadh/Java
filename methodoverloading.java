@@ -21,7 +21,7 @@ class methodoverloading {
 }
 
 class MethodOverLoad {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         methodoverloading m = new methodoverloading();
 
         System.out.println(m.add(10, 20));                 // calls int add(int,int)
