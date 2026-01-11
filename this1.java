@@ -1,4 +1,4 @@
-public class this {
+public class this1 {
         int age;
 
     void setAge(int age) {
@@ -10,7 +10,7 @@ public class this {
     }
 
     public static void main(String[] args) {
-        Student s = new Student();
+        this1 s = new this1();
         s.setAge(20);
         s.showAge();
     }
