@@ -1,6 +1,6 @@
 package inhertiance;
 
-public class main {
+public class main extends advcal{
     public static void main(String[] args) {
         calc obj1=new calc();
         advcal obj2=new advcal();
@@ -13,5 +13,5 @@ public class main {
         obj2.mod(a, b);
         obj2.square(a);
         obj2.cube(a);
-    }
+    } 
 }
