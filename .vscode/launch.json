@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "animal1",
+            "request": "launch",
+            "mainClass": "animal1",
+            "projectName": "Java_8fed7b0f"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_8fed7b0f"
+        },
+        {
+            "type": "java",
+            "name": "heriricalinheritcane",
+            "request": "launch",
+            "mainClass": "heriricalinheritcane",
+            "projectName": "Java_8fed7b0f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
