@@ -45,6 +45,11 @@ class Dog extends super1 {
         // Child class behavior
     }
 }
-
-
+class Test {
+    public static void main(String[] args) {
+        Dog dog = new Dog();
+        dog.display();
+        dog.sound();
+    }
+}
 
