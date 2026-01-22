@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "castingTest",
+            "request": "launch",
+            "mainClass": "castingTest",
+            "projectName": "Java_8fed7b0f"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "methodovereiding.main",
